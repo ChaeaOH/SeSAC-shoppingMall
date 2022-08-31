@@ -33,7 +33,8 @@ src
 3. 각 상세페이지 URL 접속시 상품명,내용,가격등을 다르게 보여줘야 하므로 Json 가상 데이터 안에 있는 id,title 등을 쓸 수 있도록  **useParams**라는 훅을 사용했습니다.
 
 # 🚀Result
-<img width="{80%}" src="https://ndb796.tistory.com/557 [안경잡이개발자:티스토리](https://mail.google.com/mail/u/0?ui=2&ik=8e653972e2&attid=0.1&permmsgid=msg-a:r8212590978466731852&th=182f25297a2051ca&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_bNkA5bGiV6hDVVIRA_FlJEuWM2rX5-QI03zsK75q9wcLhO8guShLxE2UsC82ZosJtRJmGXcOhU3VDiP6-iASHBW3aUI9zOAeDu4tA5VC_2ZsX5sW4QpRo41g&disp=emb&realattid=ii_l7h5xuzl0)"/>
+<img src="/public/readme.png" width="700" height="370">
+
 
 # 💡Review
 
