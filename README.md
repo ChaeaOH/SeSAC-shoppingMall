@@ -33,8 +33,7 @@ src
 3. 각 상세페이지 URL 접속시 상품명,내용,가격등을 다르게 보여줘야 하므로 Json 가상 데이터 안에 있는 id,title 등을 쓸 수 있도록  **useParams**라는 훅을 사용했습니다.
 
 # 🚀Result
-<img src="/public/readme.png" width="700" height="370">
-
+![project](public/readme.png)
 
 # 💡Review
 
