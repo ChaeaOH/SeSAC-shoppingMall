@@ -2,7 +2,7 @@
 
 SeSAC 산업진흥원 프론트엔드 실무 교육과정에서 **REACT를 기반으로 한 쇼핑몰**의 기본 기능을 구현하였습니다.
 
-# 🌲Structure Tree
+# 🪜Architecture
 src  
  ┣ components  
  ┃ ┣ CartItem.css  
